@@ -1,0 +1,36 @@
+body {
+}
+nav {
+  display: flex;
+  margin-top: -30px;
+}
+
+.nav-items {
+  display: flex;
+  margin-left: 180px;
+  margin-right: 80px;
+}
+
+nav > img {
+}
+
+.nav-item {
+  margin: 50px;
+  margin-top: 50px;
+  font-size: 30px;
+}
+
+h3.left-section {
+  background-color: aquamarine;
+}
+
+.headp {
+  position: absolute;
+  top: 120px;
+  right: 10px;
+}
+.dis {
+  background-color: blue;
+  position: absolute;
+  left: 800px;
+}
